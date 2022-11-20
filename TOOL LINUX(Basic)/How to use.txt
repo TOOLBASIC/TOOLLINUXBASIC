@@ -1,0 +1,4 @@
+1.Import sudo apt install python to command
+2.Import pip install time, os to command
+3.Import cd ./TOOL LINUX(Basic) to command
+4.Import python TOOL.py
