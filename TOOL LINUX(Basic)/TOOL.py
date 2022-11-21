@@ -6,7 +6,7 @@ while True:
     print("                                        Wellcome to Linux tool                                                 ")
     print("                                         create by Hoang Phuc                                                   ")
     print("                                        Mail:binbuop@gmail.com                                                  ")
-    print("                                        Phone number:+8436900376                                                ")
+    print("                                        Phone number:+84365900376                                                ")
     print(f"--------------------------------------------------------------------------------------------------------------")
     time.sleep(2)
     print('Please wait...')
