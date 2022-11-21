@@ -2,6 +2,7 @@ import os
 import time
 import webbrowser
 while True:
+    os.system('clear')
     print(f"--------------------------------------------------------------------------------------------------------------")
     print("                                        Wellcome to Linux tool                                                 ")
     print("                                         create by Hoang Phuc                                                   ")
